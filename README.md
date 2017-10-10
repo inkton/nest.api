@@ -1,5 +1,5 @@
 # Nest API
-The _Nest API_ handles deploying and managing apps on [nest.yt](https://nest.yt) PaaS.
+The Nest API handles deploying, managing and monotoring apps on [nest.yt](https://nest.yt) PaaS.
 
 ![Nest API](https://github.com/inkton/nest.api/wiki/images/na-title.png)
 
